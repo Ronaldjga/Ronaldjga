@@ -5,3 +5,7 @@
 Atualmente sou um desenvolvedor web front-end-jr, para mais informações acesse meu <a href="https://ronaldjga-portifolio.000webhostapp.com/">portifólio</a>
 
 <hr height="15" color="#F2BF5E"></hr>
+
+## Tecnologias
+
+<div style="padding: 2px 5px; background-color:#022026;"><img src="https://img.icons8.com/color/344/html-5--v1.png" width="30"> | HTML</div>
