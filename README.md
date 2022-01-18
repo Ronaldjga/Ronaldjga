@@ -7,5 +7,6 @@ Atualmente sou um desenvolvedor web front-end-jr, para mais informações acesse
 <hr height="15" color="#F2BF5E"></hr>
 
 ## Tecnologias
-
-<img src="./img/htmlBanner.png"> <img src="./img/cssBanner.png"> <img src="./img/javascriptBanner.png"> <img src="./img/gitBanner.png"> <img src="./img/githubBanner.png"> <img src="./img/twBanner.png">
+<div flex justify-center>
+    <img src="./img/htmlBanner.png"> <img src="./img/cssBanner.png"> <img src="./img/javascriptBanner.png"> <img src="./img/gitBanner.png"> <img src="./img/githubBanner.png"> <img src="./img/twBanner.png">
+</div>
