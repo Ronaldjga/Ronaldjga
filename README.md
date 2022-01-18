@@ -4,4 +4,4 @@
 
 Atualmente sou um desenvolvedor web front-end-jr, para mais informações acesse meu <a href="https://ronaldjga-portifolio.000webhostapp.com/">portifólio</a>
 
-<hr height="15"></hr>
+<hr height="15" color="yellow"></hr>
