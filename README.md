@@ -8,4 +8,4 @@ Atualmente sou um desenvolvedor web front-end-jr, para mais informações acesse
 
 ## Tecnologias
 
-<img src="./img/htmlBanner.svg">
+<img src="./img/htmlBanner.png">
