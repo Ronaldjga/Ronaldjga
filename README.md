@@ -11,4 +11,9 @@ Atualmente sou um desenvolvedor web front-end-jr, para mais informações acesse
     <img src="./img/htmlBanner.png"> <img src="./img/cssBanner.png"> <img src="./img/javascriptBanner.png"> <img src="./img/gitBanner.png"> <img src="./img/githubBanner.png"> <img src="./img/twBanner.png">
 </p>
 
+<hr height="15" color="#F2BF5E"></hr>
+
 ## Redes Sociais
+<p align="center">
+    <a href="https://www.instagram.com/Ronald_jga/"><img src="./img/instagramBanner.png"></a> <a href="https://www.linkedin.com/in/ronald-almeida-749198220/"><img src="./img/linkedinBanner.png"></a> <a href="https://twitter.com/_Ronaldjga"><img src="./img/twitterBanner.png"></a>
+</p>
