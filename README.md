@@ -15,5 +15,5 @@ Atualmente sou um desenvolvedor web front-end-jr, para mais informações acesse
 
 ## Redes Sociais
 <p align="center">
-    <a href="https://www.instagram.com/Ronald_jga/"><img width="165" src="./img/instagramBanner.png"></a> <a href="https://www.linkedin.com/in/ronald-almeida-749198220/"><img width="165" src="./img/linkedinBanner.png"></a> <a href="https://twitter.com/_Ronaldjga"><img width="165" src="./img/twitterBanner.png"></a>
+    <a href="https://www.instagram.com/Ronald_jga/"><img width="165" src="./img/instagramBanner.png"></a> <a href="https://www.linkedin.com/in/ronald-almeida-749198220/"><img width="165" src="./img/linkedinBanner.png"></a>
 </p>
