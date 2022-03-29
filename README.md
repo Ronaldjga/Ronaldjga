@@ -8,7 +8,7 @@ Atualmente sou um desenvolvedor web front-end-jr, para mais informações acesse
 
 ## Tecnologias
 <p align="center">
-    <img src="./img/htmlBanner.svg"> <img src="./img/cssBanner.png"> <img src="./img/javascriptBanner.svg"> <img src="./img/reactjsBanner.png"/> <img src="./img/nextjsBanner.png"/> <img src="./img/gitBanner.png"> <img src="./img/githubBanner.svg"> <img src="./img/tailwindBanner.png">
+    <img src="./img/htmlBanner.png"> <img src="./img/cssBanner.png"> <img src="./img/javascriptBanner.png"> <img src="./img/reactjsBanner.png"/> <img src="./img/nextjsBanner.png"/> <img src="./img/gitBanner.png"> <img src="./img/githubBanner.png"> <img src="./img/tailwindBanner.png">
 </p>
 
 <hr height="15" color="#F2BF5E"></hr>
