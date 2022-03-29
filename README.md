@@ -1,4 +1,4 @@
-<img src="./img/banner.svg">
+<img src="./img/banner.png">
 
 <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man_1f468.png" width="30"> | Me chamo Ronald Almeida. Estou me formando em Analise e desenvolvimento de sistemas, mas fora do curso me aventuro a fundo na imensidão do mundo da tecnologia, no propósito de alcançar meus objetivos.
 
