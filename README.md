@@ -3,27 +3,25 @@
 <p>
     <span>
         <img src="./img/listStyle.svg" width="15">
-        Me chamo Ronald Almeida. Estou me formando em Analise e desenvolvimento de sistemas, mas fora do curso me aventuro a fundo na imensidão do mundo da tecnologia, no propósito de alcançar meus objetivos.
+        Me chamo Ronald Almeida. Estou me formando em Analise e desenvolvimento de sistemas, mas fora do curso me aventuro a fundo na imensidão do mundo da tecnologia, no propósito de alcançar meus objetivos;
     </span>
 </p>
 
 <p>
     <span>
         <img src="./img/listStyle.svg" width="15">
-        Atualmente sou um desenvolvedor web front-end-jr, para mais informações acesse meu <a href="https://meu-portifolio-one.vercel.app/">portifólio</a>
+        Sou um desenvolvedor web front-end-jr, meu <a href="https://meu-portifolio-one.vercel.app/">portifólio</a>;
     </span>
 </p>
 
-Atualmente sou um desenvolvedor web front-end-jr, para mais informações acesse meu <a href="https://meu-portifolio-one.vercel.app/">portifólio</a>
-
-<hr height="15" color="#F2BF5E"></hr>
+<hr height="15" color="#831843"></hr>
 
 ## Tecnologias
 <p align="center">
     <img src="./img/htmlBanner.png"> <img src="./img/cssBanner.png"> <img src="./img/javascriptBanner.png"> <img src="./img/reactjsBanner.png"/> <img src="./img/nextjsBanner.png"/> <img src="./img/gitBanner.png"> <img src="./img/githubBanner.png"> <img src="./img/tailwindBanner.png">
 </p>
 
-<hr height="15" color="#F2BF5E"></hr>
+<hr height="15" color="#831843"></hr>
 
 ## Redes Sociais
 <p align="center">
