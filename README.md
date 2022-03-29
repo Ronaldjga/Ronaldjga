@@ -14,14 +14,14 @@
     </span>
 </p>
 
-<hr height="15" color="#831843"></hr>
+<hr height="15" border-color="#831843"></hr>
 
 ## Tecnologias
 <p align="center">
     <img src="./img/htmlBanner.png"> <img src="./img/cssBanner.png"> <img src="./img/javascriptBanner.png"> <img src="./img/reactjsBanner.png"/> <img src="./img/nextjsBanner.png"/> <img src="./img/gitBanner.png"> <img src="./img/githubBanner.png"> <img src="./img/tailwindBanner.png">
 </p>
 
-<hr height="15" color="#831843"></hr>
+<hr height="15" border-color="#831843"></hr>
 
 ## Redes Sociais
 <p align="center">
