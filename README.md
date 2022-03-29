@@ -1,6 +1,18 @@
 <img src="./img/banner.png">
 
-<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man_1f468.png" width="30"> | Me chamo Ronald Almeida. Estou me formando em Analise e desenvolvimento de sistemas, mas fora do curso me aventuro a fundo na imensidão do mundo da tecnologia, no propósito de alcançar meus objetivos.
+<p>
+    <span>
+        <img src="listStyle.svg" width="20">
+        Me chamo Ronald Almeida. Estou me formando em Analise e desenvolvimento de sistemas, mas fora do curso me aventuro a fundo na imensidão do mundo da tecnologia, no propósito de alcançar meus objetivos.
+    </span>
+</p>
+
+<p>
+    <span>
+        <img src="listStyle.svg" width="20">
+        Atualmente sou um desenvolvedor web front-end-jr, para mais informações acesse meu <a href="https://meu-portifolio-one.vercel.app/">portifólio</a>
+    </span>
+</p>
 
 Atualmente sou um desenvolvedor web front-end-jr, para mais informações acesse meu <a href="https://meu-portifolio-one.vercel.app/">portifólio</a>
 
