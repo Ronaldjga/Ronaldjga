@@ -2,14 +2,14 @@
 
 <p>
     <span>
-        <img src="./img/listStyle.svg" width="20">
+        <img src="./img/listStyle.svg" width="15">
         Me chamo Ronald Almeida. Estou me formando em Analise e desenvolvimento de sistemas, mas fora do curso me aventuro a fundo na imensidão do mundo da tecnologia, no propósito de alcançar meus objetivos.
     </span>
 </p>
 
 <p>
     <span>
-        <img src="./img/listStyle.svg" width="20">
+        <img src="./img/listStyle.svg" width="15">
         Atualmente sou um desenvolvedor web front-end-jr, para mais informações acesse meu <a href="https://meu-portifolio-one.vercel.app/">portifólio</a>
     </span>
 </p>
