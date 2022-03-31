@@ -18,7 +18,7 @@
 
 ## Tecnologias
 <p align="center">
-    <img src="./img/htmlBanner.png"> <img src="./img/cssBanner.png"> <img src="./img/javascriptBanner.png"> <img src="./img/reactjsBanner.png"/> <img src="./img/nextjsBanner.png"/> <img src="./img/gitBanner.png"> <img src="./img/githubBanner.png"> <img src="./img/tailwindBanner.png">
+    <img src="./img/htmlBanner.png"> <img src="./img/cssBanner.png"> <img src="./img/javascriptBanner.png"> <img src="./img/reactjsBanner.png"/> <img src="./img/nextjsBanner.png"/> <img src="./img/gitBanner.png"> <img src="./img/githubBanner.png"> <img src="./img/tailwindBanner.png"> <img src="./img/figmaBanner.png"> <img src="./img/photoshopBanner.png"> <img src="./img/adobexdBanner.png">
 </p>
 
 <hr height="15"></hr>
